@@ -2,9 +2,11 @@
 
 In het voorjaar van 2013 is binnen de Faculteit der Geesteswetenschappen een verkenning uitgevoerd naar de wensen en ideeën op een eventueel eHumanities lab (Koolen & Bod, 2013). Dit onderzoek benadrukt de brede scope die dit lab moet krijgen. Hierbij vallen een aantal dominante thema’s te onderscheiden: ondersteuning en professionalisering, fysieke en virtuele ruimtes, hardware en infrastructuur. 
 
-Voordat er sprake is van een lab, waarin al deze aspecten gewaarborgd zijn, is het noodzakelijk om al op korte termijn stappen te ondernemen zodat de weg hiernaar toe zo efficiënt mogelijk wordt vormgegeven. Tegelijkertijd is het echter belangrijk niet klakkeloos stappen te ondernemen. In het verleden heeft de faculteit te vaak geinvesteerd in . Wij zijn van mening dat een succesvol e-lab noodzakelijkerwijze voortkomt uit een coherente en concrete visie op de rol van het ICT binnen het wetenschappelijk onderwijs en onderzoek.
+Voordat er sprake is van een lab, waarin al deze aspecten gewaarborgd zijn, is het noodzakelijk om al op korte termijn stappen te ondernemen zodat de weg hiernaar toe zo efficiënt mogelijk wordt vormgegeven. Tegelijkertijd is het echter belangrijk niet klakkeloos stappen te ondernemen. In het verleden heeft de faculteit te vaak teveel geinvesteerd in ad-hoc oplossingen alsmede snel verouderde hardware en software en bijbehorende service contracten. 
 
-In onderstaand voorstel zullen wij onze visie, en de stappen die volgens ons het komend jaar nodig zijn om deze te realiseren, beschrijven. Wij richten ons richten ons bewust slechts op 2014-2015, omdat wij van mening zijn dat er een project van deze complexiteit en omvang een gedegen onderzoek vereist. Voordat we met een plan van aanpak voor meerdere jaren kunnen komen, moeten een aantal factoren eerst onderzocht en getest worden:
+Wij zijn van mening dat een succesvol e-lab noodzakelijkerwijze voortkomt uit een coherente en concrete visie op de rol van het ICT binnen het wetenschappelijk onderwijs en onderzoek. In onderstaand voorstel zullen wij onze visie, en de stappen die volgens ons het komend jaar nodig zijn om deze te realiseren, beschrijven. 
+
+Wij beperken ons in dit plan bewust tot 2014-2015, omdat wij van mening zijn dat er een project van deze omvang en complexiteit een gedegen onderzoek vereist. Voordat we met een plan van aanpak voor meerdere jaren kunnen komen, moeten een aantal factoren eerst onderzocht en getest worden, te weten:
 
 + de ontsluiting van de al aanwezige labs en materiaal
 + de ervaringen met de pilot van 'Coding the Humanities'
@@ -12,19 +14,19 @@ In onderstaand voorstel zullen wij onze visie, en de stappen die volgens ons het
 + mogelijkheden tot samenwerking met private partners
 + mogelijkheden tot gedeeltelijke financiering uit tweede en derde geldstroming
 
-Het komend jaar zouden wij - Nynke Bos, Jan Hein Hoogstad en Marijn Koolen - graag de bevoegdheid en de bijbehorende middelen krijgen om een dergelijk onderzoek uit te voeren. Dit moet leiden tot een plan van aanpak voor de komende tien jaar in oktober.
+Het komend jaar zouden ondergetekenden - Nynke Bos, Jan Hein Hoogstad en Marijn Koolen - graag de bevoegdheid en de bijbehorende middelen krijgen om een dergelijk onderzoek uit te voeren. Dit zal resulteren tot een plan van aanpak voor de komende tien jaar in oktober.  
 
 
 ## Visie
 
-De commotie rondom de zogenaamde digitale geesteswetenschapppen is naar onze mening van tijdelijke aard. Niet omdat de geesteswetenschapper binnenkort weer zal terugvallen op zijn oude, vertrouwde werktuig, maar in tegendeel, omdat digitale methoden in de zeer nabije toekomst zullen gaan behoren het de gereedschapskist van alle geesteswetenschappers. 
+De commotie rondom de zogenaamde digitale geesteswetenschapppen is naar onze mening van tijdelijke aard. Niet omdat de geesteswetenschapper binnenkort weer zal terugvallen op zijn oude, vertrouwde werktuig, maar in tegendeel, omdat digitale methoden in de zeer nabije toekomst zullen gaan behoren tot de gereedschapskist van alle geesteswetenschappers. 
 
-Hoe nabij deze toekomst ook mag zijn, de huidige geesteswetenschappers in het algemeen en die aan de UvA in het bijzonder hebben nog een lange weg te gaan. Wij stellen vast dat digitale methoden momenteel nog te veel als 'Fremdkörper' worden gezien. Dit veroorzaakt veel onnodige angst en onrust, en zal zonder ingrijpen ertoe leiden dat de UvA in de toekomst de slag om innovatief onderzoek (en de financieerbaarheid hiervan) zal gaan verliezen.
+Hoe nabij deze toekomst ook mag zijn, de huidige geesteswetenschappers in het algemeen en die aan de UvA in het bijzonder hebben nog een lange weg te gaan. Op basis van onze ervaringen met medewerkers - crash course - en studenten - cursussen in master - stellen wij vast dat digitale methoden momenteel nog te veel als 'Fremdkörper' worden gezien. Dit veroorzaakt veel onnodige angst en onrust, en zal zonder ingrijpen ertoe leiden dat de UvA in de toekomst de slag om innovatief onderzoek (en de financieerbaarheid hiervan) zal gaan verliezen.
 
 Het elab moet volgens ons de kern vormen van een bredere inhaalslag die de faculteit geesteswetenschappen de komende vijf jaar moet maken. Deze inhaalslag moet leiden tot kritische, vaardige en autonome studenten en medewerkers, die niet langer consumenten maar producenten van digitale werktuigen zullen zijn. Om dit te bereiken, zou het elab volgens de volgende vijf uitgangspunten moeten worden ontwikkeld.
 
 
-### Convention over configuration
+### Convention over Configuration
 
 'Convention over configuration' is een idee dat komt uit de software development. In plaats dat alles individueel geconfigureerd moet worden, voldoet een tool automatisch aan bepaalde conventies. Dit zorgt ervoor dat de gebruiker niet eerst een groot aantal instelling moet kennen voordat hij met de applicatie kan werken. Een conventie is echter niet hetzelde als een standaard. Ook bij deze zogenaamde 'opinionated software' is nauwkeurige configureerbaarheid is nog steeds mogelijk, maar niet meer een obstakel voor beginnende gebruikers van een tool. 
 
@@ -35,11 +37,11 @@ Een ander voordeel van 'convention over configuration' is dat datasets en tools 
 Het is echter ook hier belangrijk te benadrukken dat een conventie niet hetzelfde is als een standaard. Afwijkende keuzes voor tools moeten niet onmogelijk gemaakt worden. Door het afspreken van een conventie kan er echter makkelijker zicht- en bespreekbaar gemaakt worden dat hiermee extra kosten en inspanningen gemoeid zijn.
 
 
-### Training over support
+### Training over Support
 
-Om de behoefte aan en druk op support te verminderen, worden stafleden getraind zelf hun eigen tools te ontwikkelen en onderzoek op te zetten via het platform. Als dit tot support beperkt zou blijven, zouden stafleden bij vervolgonderzoek wederom support nodig hebben. Training geeft ze de zelfstandigheid om digitaal onderzoek zelfstandig uit te voeren. 
+Uit de elab verkenning van afgelopen zomer blijkt een brede behoefte onder medewerkers naar meer support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis en ervaring op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan meer support, zouden de beperkte middelen primair voor scholing ingezet moeten worden. 
 
-Het platform moet uiteindelijk cursussen aanbieden voor een breed scala aan digitale onderzoeksmethoden. 
+Gedegen training van studenten en medewerkers lost op de lange termijn meer op dan steeds meer geld uitgeven aan support. Deze training moet verder gaan dan bijscholing op het gebied vanbestaande tools. In ons toekomstbeeld leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. Als dit tot support beperkt zou blijven, zouden stafleden bij vervolgonderzoek wederom support nodig hebben. Training geeft ze de zelfstandigheid om digitaal onderzoek zelfstandig uit te voeren. 
 
 
 ### Collaboration over Ownership
@@ -61,6 +63,7 @@ Dit platform wordt door de FGw zelf ontwikkeld om twee redenen. Ten eerste omdat
 De doelstelling van het platform is daarmee tweeledig. Het dient als leer/ testomgeving voor studenten en het dient als samenwerkingsomgeving voor onderzoekers. Deze onderzoekers zijn zowel docenten als studenten. Een voordeel van het werken met een digitaal platform ten opzichte van een fysiek lab, is dat deze ook direct een (inter)nationaal publiek aanspreekt. De kennisdeling en uitwisseling krijgt daarmee automatisch een internationaal karakter. 
 
 Hierin wordt een tweetal aspecten benadrukt: professionalisering van docenten en studenten in Digital Humanities en daarnaast ontsluiting van de al aanwezige labs en materiaal.
+
 
 ### Aanwezige Labs en beschikbaar materiaal ontsluiten 
 
@@ -97,14 +100,13 @@ Bij het ontwikkeling van het bredere platform moet rekening worden gehouden met 
 
 Een uitgebreide omschrijving staat beschreven in het stuk “Coding the Humanities”, welke is bijgevoegd in de bijlagen. N.B. de curriculumontwikkeling van “Coding the Humanities” valt buiten de financiering van het huidige plan. Hiervoor wordt aanspraak gemaakt op de AAA gelden.
 
+
 ### Crash Course Medewerkers
 
 Ook in 2014 wordt er weer een crash course voor stafleden aangeboden. Gezien het grote aantal aanmeldingen voor de eerste crash course lijkt een voldoende aantal deelnemers voor een herhaling gegarandeerd. De cursusmaterialen, de corpora en de (ontwikkelde) tools zullen worden ontsloten via het bovengenoemde online platform. Hiermee wordt de crash course ook bereikbaar voor stafleden die niet aanwezig willen of kunnen zijn of slechts op zoek zijn naar de werking van één specifieke tool, evenals voor studenten.
 
 Tevens stellen wij voor om in het najaar ook een gevorderde versie van de crash course te starten. Hierbij zal net als in 'Coding the Humanities' het programmeren centraal moeten staan. Dit is belangrijk omdat het voor het succes van het digitaal onderwijs en onderzoek aan de UvA (en de hier voorgestelde digitale omgeving) belangrijk is dat de staff niet alleen over basiskennis, maar juist ook over gevorderde kennis beschikt.
 
-
-## Gevraagd Besluit 
 
 Uit bovenstaande analyse blijkt dat voor ons een digitale leer- en onderzoeksomgeving de hoogste prioriteit heeft. Het opzetten van een dergelijk platform is echt een omvangrijk en complex project, omdat het zowel onderwijskundig, technisch, en juridisch aan zeer hoge eisen moet voldoen. Ook moet het goed aansluiten bij de verschillende labs die al aan de UvA bestaan, of momenteel in ontwikkeling zijn. We stellen daarom voor de komende maanden gedegen onderzoek te doen naar de randvoorwaarden en implementatie voor zo'n digitale leer- en onderzoeksomgeving. 
 
