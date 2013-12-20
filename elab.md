@@ -8,8 +8,8 @@ Wij zijn van mening dat een succesvol e-lab noodzakelijkerwijs voortkomt uit een
 
 Wij beperken ons in dit plan bewust tot 2014-2015, omdat wij van mening zijn dat een project van deze omvang en complexiteit een gedegen onderzoek vereist. Voordat we met een plan van aanpak voor meerdere jaren kunnen komen, moeten een aantal factoren eerst onderzocht en getest worden, te weten:
 
-+ de ontsluiting van de al aanwezige labs en materiaal
 + de ervaringen met de pilot van 'Coding the Humanities'
++ de ontsluiting van de al aanwezige labs en materiaal
 + mogelijkheden tot samenwerking met andere universiteiten
 + mogelijkheden tot samenwerking met private partners
 + mogelijkheden tot gedeeltelijke financiering uit tweede en derde geldstromen
