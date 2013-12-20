@@ -46,6 +46,8 @@ Gedegen training van studenten en medewerkers lost op de lange termijn meer op d
 
 ### Collaboration over Ownership
 
+PPI / Horizon 2020
+
 Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—men kan samen aan digitaal onderzoek werken—en tussen geesteswetenschappers en onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
 
 
@@ -56,13 +58,13 @@ Een ander groot voordeel van een open onderwijs- en onderzoeksplatform en digita
 
 ## Uitvoering
 
-Een fysiek lab kan op zijn vroegst in 2017 gerealiseerd kan worden. Dit hoeft en moet de implementatie van bovengenoemde principes niet te hinderen.  Gezien de urgentie van een inhaalslag op het gebied van digitale onderwijs en onderzoeksmethoden die aan de UvA moet plaatsvinden, is het wenselijk om zo snel mogelijk een digitaal platform waarop de verschillende - al aanwezige en in de toekomst te ontwikkelen initiatieven - samenkomen. 
+Een fysiek lab kan op zijn vroegst in 2017 gerealiseerd kan worden. Dit hoeft en moet de implementatie van bovengenoemde principes echter niet te hinderen. Gezien de noodzaak en urgentie van een inhaalslag op het gebied van digitale onderwijs en onderzoeksmethoden die aan de UvA moet plaatsvinden, is het cruciaal om zo snel mogelijk een digitaal platform waarop de verschillende - al aanwezige en in de toekomst te ontwikkelen initiatieven - samenkomen. 
 
 Dit platform wordt door de FGw zelf ontwikkeld om twee redenen. Ten eerste omdat de ontwikkeling deels plaatsvindt in een nog te ontwikkelen online cursus Coding the Humanities en ten tweede omdat het platform tegemoet moet komen aan specifieke vragen en eisen met betrekking tot Digital Humanities. Deze vragen en eisen gaan verder dan het sturen van informatie, en behoeven een flexibele modulaire omgeving waarbinnen eigen tools ontwikkeld kunnen worden en datasets kunnen worden aangesproken en bewerkt. Tot op heden is een dergelijk platform nog niet ontwikkeld. 
 
 De doelstelling van het platform is daarmee tweeledig. Het dient als leer/ testomgeving voor studenten en het dient als samenwerkingsomgeving voor onderzoekers. Deze onderzoekers zijn zowel docenten als studenten. Een voordeel van het werken met een digitaal platform ten opzichte van een fysiek lab, is dat deze ook direct een (inter)nationaal publiek aanspreekt. De kennisdeling en uitwisseling krijgt daarmee automatisch een internationaal karakter. 
 
-Hierin wordt een tweetal aspecten benadrukt: professionalisering van docenten en studenten in Digital Humanities en daarnaast ontsluiting van de al aanwezige labs en materiaal.
+Hierin wordt een drietal aspecten benadrukt: professionalisering van docenten en studenten in Digital Humanities, ontsluiting van de al aanwezige labs en materiaal en samenwerking met academische en private partners.
 
 
 ### Aanwezige Labs en beschikbaar materiaal ontsluiten 
@@ -107,6 +109,15 @@ Ook in 2014 wordt er weer een crash course voor stafleden aangeboden. Gezien het
 
 Tevens stellen wij voor om in het najaar ook een gevorderde versie van de crash course te starten. Hierbij zal net als in 'Coding the Humanities' het programmeren centraal moeten staan. Dit is belangrijk omdat het voor het succes van het digitaal onderwijs en onderzoek aan de UvA (en de hier voorgestelde digitale omgeving) belangrijk is dat de staff niet alleen over basiskennis, maar juist ook over gevorderde kennis beschikt.
 
+
+## Samenwerking
+
+### Academische Partners
+
+### Private Partners
+
+
+## Gevraagd Besluit
 
 Uit bovenstaande analyse blijkt dat voor ons een digitale leer- en onderzoeksomgeving de hoogste prioriteit heeft. Het opzetten van een dergelijk platform is echt een omvangrijk en complex project, omdat het zowel onderwijskundig, technisch, en juridisch aan zeer hoge eisen moet voldoen. Ook moet het goed aansluiten bij de verschillende labs die al aan de UvA bestaan, of momenteel in ontwikkeling zijn. We stellen daarom voor de komende maanden gedegen onderzoek te doen naar de randvoorwaarden en implementatie voor zo'n digitale leer- en onderzoeksomgeving. 
 
