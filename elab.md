@@ -39,9 +39,9 @@ Het is echter ook hier belangrijk te benadrukken dat een conventie niet hetzelfd
 
 ### Training over Support
 
-Uit de elab verkenning van afgelopen zomer blijkt een brede vraag onder medewerkers naar meer support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis en ervaring vaardigheden op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan meer support, zouden de beperkte middelen primair voor (bij)scholing ingezet moeten worden. 
+Uit de elab verkenning van afgelopen zomer blijkt een brede vraag onder medewerkers naar meer en betere support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis en ervaring vaardigheden op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan support, zouden de beperkte middelen primair voor (bij)scholing ingezet moeten worden. 
 
-Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van support. Deze training moet verder gaan dan bijscholing op het gebied van bestaande tools. In onze toekomstvisie leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. Als dit tot support beperkt zou blijven, zouden stafleden bij vervolgonderzoek wederom support nodig hebben. Training geeft ze de zelfstandigheid om digitaal onderzoek zelf uit te voeren. 
+Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van ondersteuning. Deze training moet verder gaan dan bijscholing op het gebied van kant en klare applicaties. In onze toekomstvisie leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. 
 
 
 ### Collaboration over Ownership
