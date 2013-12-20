@@ -41,11 +41,12 @@ Het is echter ook hier belangrijk te benadrukken dat een conventie niet hetzelfd
 
 Uit de elab verkenning van afgelopen zomer blijkt een brede vraag onder medewerkers naar meer support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis en ervaring vaardigheden op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan meer support, zouden de beperkte middelen primair voor (bij)scholing ingezet moeten worden. 
 
-Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van support. Deze training moet verder gaan dan bijscholing op het gebied van bestaande tools. In ons toekomstbeeld leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. Als dit tot support beperkt zou blijven, zouden stafleden bij vervolgonderzoek wederom support nodig hebben. Training geeft ze de zelfstandigheid om digitaal onderzoek zelf uit te voeren. 
+Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van support. Deze training moet verder gaan dan bijscholing op het gebied van bestaande tools. In onze toekomstvisie leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. Als dit tot support beperkt zou blijven, zouden stafleden bij vervolgonderzoek wederom support nodig hebben. Training geeft ze de zelfstandigheid om digitaal onderzoek zelf uit te voeren. 
 
 
 ### Collaboration over Ownership
 
+PPI / Horizon 2020
 
 Met andere woorden, samenwerken is steeds minder een keuze en steeds meer een must. 
 
@@ -54,7 +55,7 @@ Grote gezamelijke projecten zorgen echter ook voor hogere overlast op het gebied
 Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—--men kan samen aan digitaal onderzoek werken--—en met onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
 
 
-### Experimentation over reproduction
+### Experimentation over Reproduction // Learning over Teaching
 
 Een ander groot voordeel van een open onderwijs- en onderzoeksplatform en digitale training van stafleden en studenten, is dat deze hiermee aangemoedigd worden om zelf tools te ontwikkelen en daarmee nieuwe perspectieven, vragen en inzichten kunnen krijgen. Door 'proprietary' tools worden onderzoekers beperkt tot het gebruiken van tools die niet goed aansluiten op wat ze willen doen en leiden tot het simpelweg reproduceren wat men in eerder onderzoek heeft gedaan. 
 
@@ -67,12 +68,13 @@ Dit platform wordt door de FGw zelf ontwikkeld om twee redenen. Ten eerste omdat
 
 De doelstelling van het platform is daarmee tweeledig. Het dient als leer/testomgeving voor studenten en het dient als samenwerkingsomgeving voor onderzoekers. Deze onderzoekers zijn zowel docenten als studenten. Een voordeel van het werken met een digitaal platform ten opzichte van een fysiek lab, is dat deze ook direct een (inter)nationaal publiek aanspreekt. De kennisdeling en uitwisseling krijgt daarmee automatisch een internationaal karakter. 
 
-Hierin wordt een drietal aspecten benadrukt: (1) professionalisering van docenten en studenten in Digital Humanities, (2) ontsluiting van de al aanwezige labs en materiaal en (3) samenwerking met academische en private partners.
+Voor het komend jaar stellen wij voor een drietal aspecten te benadrukken: 
 
+1. professionalisering van docenten en studenten
+2. ontsluiten van de al aanwezige labs en materiaal
+3. samenwerking met academische en private partners
 
-### Aanwezige Labs en beschikbaar materiaal ontsluiten 
-
-In de inventarisatie van Koolen & Bod (2013) worden reeds een aantal aanwezige Labs binnen de FGw genoemd, zoals Digital Methods Initiative Lab, Taallab etc. Deze verschillende labs worden via een overkoepelende website ontsloten om zo de zichtbaarheid van Digital Humanities en de verschillende Labs te vergroten. De Labs die ondersteuning nodig hebben bij het (door)ontwikkelen van hun site, kunnen dit via ICTO krijgen. Daarnaast worden op deze site diverse bronnen over de Digital Humanities ontsloten (denk aan tools) en komt er een prominente verwijzing naar de digitale samenwerkingsomgeving. 
+Deze drie aspecten komen samen in het ontwikkelen van het digitale onderwijs en onderzoeksplatform. Dit platform moet dan in 2017 gecomplementeerd worden met een fysiek lab.
 
 
 ## Professionalisering van docenten en studenten 
@@ -88,22 +90,20 @@ In de cursus Coding the Humanities en andere cursussen in de Digital Humanities 
 
 ### Coding the Humanities
 
-Het doel is om de Coding the Humanities cursus en omgeving open te stellen voor alle studenten en stafleden (en grotendeels ook naar buiten toe). Hierdoor kan iedereen op een voor hen geschikt moment cursussen volgen om zich te professionaliseren en deel te nemen aan de ontwikkeling van het platform.
+Het doel is om vanaf 2015 de Coding the Humanities cursus en omgeving open te stellen voor alle studenten en stafleden (en grotendeels ook naar buiten toe). Hierdoor kan iedereen op een voor hen geschikt moment cursussen volgen om zich te professionaliseren en deel te nemen aan de ontwikkeling van het platform.
 
 Voor Coding the Humanities is al geld gereserveerd vanuit de AAA-gelden om de eerste versie van het platform te ontwikkelen, specifiek voor het programmeeronderdeel. 
 
 Voor een bredere, algemenere inzet van het platform is conceptontwikkeling en verdere software-ontwikkeling nodig. Hierbij is een van de vragen hoe een digitale leeromgeving ingezet kan worden voor andere onderwijsmodules en voor onderzoeksdoeleinden.
 
-- verdere conceptontwikkeling
-- verdere software-ontwikkeling
-- ondersteuning bij uitrol naar andere cursussen
-- kosten voor hosting, software, design
++ verdere conceptontwikkeling
++ verdere software-ontwikkeling
++ ondersteuning bij uitrol naar andere cursussen
++ kosten voor hosting, software, design
 
 Bij het ontwikkeling van het bredere platform moet rekening worden gehouden met het fysieke lab dat gepland is om in 2017 te worden opgezet. De digitale en fysieke labs moeten naadloos op elkaar aansluiten. 
 
-(Dit zou ook aan kunnen sluiten bij de huidige ontwikkelingen rondom het project “Research Data Management”, wat op dit moment wordt opgezet door de UB (projectleider Renze Brandsma?).)
-
-In de bijlage "Coding the Humanities" staat dit uitgebreid omschreven. N.B. de curriculumontwikkeling van “Coding the Humanities” wordt gefinancierd vanuit de AAA gelden en valt buiten de begroting van het huidige plan. 
+N.B. de curriculumontwikkeling van “Coding the Humanities” wordt gefinancierd vanuit de AAA gelden en valt buiten de begroting van het huidige plan. 
 
 
 ### Crash Course Medewerkers
@@ -111,6 +111,11 @@ In de bijlage "Coding the Humanities" staat dit uitgebreid omschreven. N.B. de c
 Ook in 2014 wordt er weer een crash course voor stafleden aangeboden. Gezien het grote aantal aanmeldingen voor de eerste crash course lijkt een voldoende aantal deelnemers voor een herhaling gegarandeerd. De cursusmaterialen, de corpora en de (ontwikkelde) tools zullen worden ontsloten via het bovengenoemde online platform. Hiermee wordt de crash course ook bereikbaar voor stafleden die niet aanwezig willen of kunnen zijn of slechts op zoek zijn naar de werking van één specifieke tool, evenals voor studenten.
 
 Tevens stellen wij voor om in het najaar ook een gevorderde versie van de crash course te starten. Hierbij zal net als in 'Coding the Humanities' het programmeren centraal moeten staan. Dit is belangrijk omdat het voor het succes van het digitaal onderwijs en onderzoek aan de UvA (en de hier voorgestelde digitale omgeving) belangrijk is dat de staff niet alleen over basiskennis, maar juist ook over gevorderde kennis beschikt.
+
+
+## Aanwezige Labs en beschikbaar materiaal ontsluiten 
+
+In de inventarisatie van Koolen & Bod (2013) worden reeds een aantal aanwezige Labs binnen de FGw genoemd, zoals Digital Methods Initiative Lab, Taallab etc. Deze verschillende labs worden via een overkoepelende website ontsloten om zo de zichtbaarheid van Digital Humanities en de verschillende Labs te vergroten. De Labs die ondersteuning nodig hebben bij het (door)ontwikkelen van hun site, kunnen dit via ICTO krijgen. Daarnaast worden op deze site diverse bronnen over de Digital Humanities ontsloten (denk aan tools) en komt er een prominente verwijzing naar de digitale samenwerkingsomgeving. 
 
 
 ## Samenwerking
