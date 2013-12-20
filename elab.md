@@ -39,14 +39,17 @@ Het is echter ook hier belangrijk te benadrukken dat een conventie niet hetzelfd
 
 ### Training over Support
 
-Uit de elab verkenning van afgelopen zomer blijkt een brede behoefte onder medewerkers naar meer support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis en ervaring op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan meer support, zouden de beperkte middelen primair voor scholing ingezet moeten worden. 
+Uit de elab verkenning van afgelopen zomer blijkt een brede vraag onder medewerkers naar meer support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis en ervaring vaardigheden op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan meer support, zouden de beperkte middelen primair voor (bij)scholing ingezet moeten worden. 
 
-Gedegen training van studenten en medewerkers lost op de lange termijn meer op dan steeds meer geld uitgeven aan support. Deze training moet verder gaan dan bijscholing op het gebied van bestaande tools. In ons toekomstbeeld leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. Als dit tot support beperkt zou blijven, zouden stafleden bij vervolgonderzoek wederom support nodig hebben. Training geeft ze de zelfstandigheid om digitaal onderzoek zelf uit te voeren. 
+Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van support. Deze training moet verder gaan dan bijscholing op het gebied van bestaande tools. In ons toekomstbeeld leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. Als dit tot support beperkt zou blijven, zouden stafleden bij vervolgonderzoek wederom support nodig hebben. Training geeft ze de zelfstandigheid om digitaal onderzoek zelf uit te voeren. 
 
 
 ### Collaboration over Ownership
 
-PPI / Horizon 2020
+
+Met andere woorden, samenwerken is steeds minder een keuze en steeds meer een must. 
+
+Grote gezamelijke projecten zorgen echter ook voor hogere overlast op het gebied van project management. Wederom stellen wij vast dat er in de geesteswetenschappen weinig kennis en ervaring bestaat op dit gebied.
 
 Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—--men kan samen aan digitaal onderzoek werken--—en met onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
 
