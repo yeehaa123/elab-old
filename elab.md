@@ -21,9 +21,9 @@ Het komend jaar zouden ondergetekenden - Nynke Bos, Jan Hein Hoogstad en Marijn 
 
 De commotie rondom de zogenaamde digitale geesteswetenschapppen is naar onze mening van tijdelijke aard. Niet omdat geesteswetenschappers binnenkort weer zullen terugvallen op hun oude, vertrouwde werktuigen, maar in tegendeel, omdat digitale methoden in de zeer nabije toekomst zullen gaan behoren tot de gereedschapskist van alle geesteswetenschappers. 
 
-Hoe nabij deze toekomst ook mag zijn, de huidige geesteswetenschappers in het algemeen en die aan de UvA in het bijzonder hebben nog een lange weg te gaan. Op basis van onze ervaringen met medewerkers - via o.a. de crash course - en studenten - via cursussen in master - stellen wij vast dat digitale methoden momenteel nog te veel als 'Fremdkörper' worden gezien. Dit veroorzaakt veel onnodige angst en onrust, en zal zonder ingrijpen ertoe leiden dat de UvA in de toekomst de slag om innovatief onderzoek (en de financieerbaarheid hiervan) zal gaan verliezen.
+Hoe nabij deze toekomst ook mag zijn, de huidige geesteswetenschappers in het algemeen en die aan de UvA in het bijzonder hebben nog een lange weg te gaan. Op basis van onze ervaringen met medewerkers - via o.a. de crash course - en studenten - via cursussen in bachelor en master - stellen wij vast dat digitale methoden momenteel nog te veel als 'Fremdkörper' worden gezien. Dit veroorzaakt veel onnodige angst en onrust, en zal zonder ingrijpen ertoe leiden dat de UvA in de toekomst de slag om innovatief onderzoek (en de financieerbaarheid hiervan) zal gaan verliezen.
 
-Het elab moet volgens ons de kern vormen van een bredere inhaalslag die de faculteit geesteswetenschappen de komende vijf jaar moet maken. Deze inhaalslag moet leiden tot kritische, vaardige en autonome studenten en medewerkers, die niet langer consumenten maar producenten van digitale werktuigen zullen zijn. Om dit te bereiken, zou het elab volgens de volgende vijf uitgangspunten moeten worden ontwikkeld.
+Het elab moet volgens ons de kern vormen van een bredere inhaalslag die de faculteit geesteswetenschappen de komende jaren moet maken. Deze inhaalslag moet leiden tot kritische, vaardige en autonome studenten en medewerkers, die niet langer consumenten maar producenten van digitale werktuigen zullen zijn. Om dit te bereiken, zou het elab volgens de volgende vijf uitgangspunten moeten worden ontwikkeld.
 
 
 ### Convention over Configuration
@@ -39,7 +39,7 @@ Het is echter ook hier belangrijk te benadrukken dat een conventie niet hetzelfd
 
 ### Training over Support
 
-Uit de elab verkenning van afgelopen zomer blijkt een brede vraag onder medewerkers naar meer en betere support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis en ervaring vaardigheden op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan support, zouden de beperkte middelen primair voor (bij)scholing ingezet moeten worden. 
+Uit de elab verkenning van afgelopen zomer blijkt een brede vraag onder medewerkers naar meer en betere support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis, ervaring en vaardigheden op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan support, zouden de beperkte middelen primair voor (bij)scholing ingezet moeten worden. 
 
 Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van ondersteuning. Deze training moet verder gaan dan bijscholing op het gebied van kant en klare applicaties. In onze toekomstvisie leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. 
 
@@ -48,11 +48,13 @@ Gedegen training van studenten en medewerkers is op de lange termijn een veel ef
 
 PPI / Horizon 2020
 
-Met andere woorden, samenwerken is steeds minder een keuze en steeds meer een must. 
+Geesteswetenschappers zijn veelal gericht op individueel onderzoek. Het lezen van teksten, bestuderen van fysiek bronmateriaal en het schrijven van kritische artikelen en boeken wordt meestal gedaan door individuen. Digitaal onderzoek leent zich echter bij uitstek voor het delen en hergebruiken van tools en data sets. Hetzelfde bronmateriaal kan tegelijkertijd door meerdere onderzoekers worden gebruikt. Er is echter een neiging om alleen het eindprodukt van geesteswetenschappelijk onderzoek, een publicatie in de vorm van een boek of artikele, beschikbaar te maken. Alle tools en data sets die tijdens het onderzoek gebruikt en gemaakt zijn worden vaak ofwel vergeten ofwel bewust afgeschermd uit angst voor mogelijke concurrentie en kritiek op data en methoden.
+
+Financieringsinstrumenten voor geesteswetenschappelijk onderzoek, zoals onderdelen van Horizon 2020 en de NWO Topsector Creatieve Idustrie, richten zich echter voornamelijk op interdisciplinaire projecten en samenwerkingen tussen geesteswetenschappers, informatici en het bedrijfsleven. Met andere woorden, samenwerken is steeds minder een keuze en steeds meer een must. 
 
 Grote gezamelijke projecten zorgen echter ook voor hogere overlast op het gebied van project management. Wederom stellen wij vast dat er in de geesteswetenschappen weinig kennis en ervaring bestaat op dit gebied.
 
-Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—--men kan samen aan digitaal onderzoek werken--—en met onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
+Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten korte tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—--men kan samen aan digitaal onderzoek werken--—en met onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
 
 
 ### Experimentation over Reproduction // Learning over Teaching
