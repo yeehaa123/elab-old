@@ -4,7 +4,7 @@ In het voorjaar van 2013 is binnen de Faculteit der Geesteswetenschappen een ver
 
 Voordat er sprake is van een lab, waarin al deze aspecten gewaarborgd zijn, is het noodzakelijk om al op korte termijn stappen te ondernemen zodat de weg hiernaar toe zo efficiënt mogelijk wordt vormgegeven. Tegelijkertijd is het echter belangrijk niet klakkeloos stappen te ondernemen. In het verleden heeft de faculteit te vaak teveel geinvesteerd in ad-hoc oplossingen alsmede snel verouderde hardware en software en bijbehorende service contracten. 
 
-Wij zijn van mening dat een succesvol e-lab noodzakelijkerwijs voortkomt uit een coherente en concrete visie op de rol van het ICT binnen het wetenschappelijk onderwijs en onderzoek. In onderstaand voorstel zullen wij onze visie, en de stappen die volgens ons het komend jaar nodig zijn om deze te realiseren, beschrijven. 
+Wij zijn van mening dat een succesvol e-lab noodzakelijkerwijs voortkomt uit een coherente en concrete visie op de rol van de ICT binnen het wetenschappelijk onderwijs en onderzoek. In onderstaand voorstel zullen wij onze visie, en de stappen die volgens ons het komend jaar nodig zijn om deze te realiseren, beschrijven. 
 
 Wij beperken ons in dit plan bewust tot 2014-2015, omdat wij van mening zijn dat een project van deze omvang en complexiteit een gedegen onderzoek vereist. Voordat we met een plan van aanpak voor meerdere jaren kunnen komen, moeten een aantal factoren eerst onderzocht en getest worden, te weten:
 
@@ -45,8 +45,6 @@ Gedegen training van studenten en medewerkers is op de lange termijn een veel ef
 
 
 ### Collaboration over Ownership
-
-PPI / Horizon 2020
 
 Geesteswetenschappers zijn veelal gericht op individueel onderzoek. Het lezen van teksten, bestuderen van fysiek bronmateriaal en het schrijven van kritische artikelen en boeken wordt meestal gedaan door individuen. Digitaal onderzoek leent zich echter bij uitstek voor het delen en hergebruiken van tools en data sets. Hetzelfde bronmateriaal kan tegelijkertijd door meerdere onderzoekers worden gebruikt. Er is echter een neiging om alleen het eindprodukt van geesteswetenschappelijk onderzoek, een publicatie in de vorm van een boek of artikele, beschikbaar te maken. Alle tools en data sets die tijdens het onderzoek gebruikt en gemaakt zijn worden vaak ofwel vergeten ofwel bewust afgeschermd uit angst voor mogelijke concurrentie en kritiek op data en methoden.
 
@@ -96,14 +94,9 @@ Het doel is om vanaf 2015 de Coding the Humanities cursus en omgeving open te st
 
 Voor Coding the Humanities is al geld gereserveerd vanuit de AAA-gelden om de eerste versie van het platform te ontwikkelen, specifiek voor het programmeeronderdeel. 
 
-Voor een bredere, algemenere inzet van het platform is conceptontwikkeling en verdere software-ontwikkeling nodig. Hierbij is een van de vragen hoe een digitale leeromgeving ingezet kan worden voor andere onderwijsmodules en voor onderzoeksdoeleinden.
+Voor een bredere, algemenere inzet van het platform is een van de vragen hoe een digitale leeromgeving ingezet kan worden voor andere onderwijsmodules en voor onderzoeksdoeleinden. Hiervoor is verdere conceptontwikkeling en software-ontwikkeling nodig, en ondersteuning bij het uitrollen van het platform voor alle stafleden en studenten. Ook zijn de eisen voor hardware, software, netwerk en hun onderhoud groter. Hiervoor is budget nodig.
 
-+ verdere conceptontwikkeling
-+ verdere software-ontwikkeling
-+ ondersteuning bij uitrol naar andere cursussen
-+ kosten voor hosting, software, design
-
-Bij het ontwikkeling van het bredere platform moet rekening worden gehouden met het fysieke lab dat gepland is om in 2017 te worden opgezet. De digitale en fysieke labs moeten naadloos op elkaar aansluiten. 
+Bij het ontwikkeling van het bredere platform moet ook rekening worden gehouden met het fysieke lab dat gepland is om in 2017 te worden opgezet. De digitale en fysieke labs moeten naadloos op elkaar aansluiten. 
 
 N.B. de curriculumontwikkeling van “Coding the Humanities” wordt gefinancierd vanuit de AAA gelden en valt buiten de begroting van het huidige plan. 
 
@@ -122,9 +115,28 @@ In de inventarisatie van Koolen & Bod (2013) worden reeds een aantal aanwezige L
 
 ## Samenwerking
 
+Zoals eerder genoemd is samenwerking in geesteswetenschappelijk onderzoek steeds meer een vereiste, zowel vanuit de financieringsinstrumenten als vanuit de interdisciplinaire aard van veel digital geesteswetenschappelijk onderzoek. Gelukkig leent digitaal onderzoek zich uitstekend voor uitgebreide samenwerking. 
+
+Maar samenwerking gaat niet vanzelf. Geesteswetenschapper hebben een lange traditie van individueel onderzoek doen en een overstap naar samenwerking vergt een cultuurverandering. Om samenwerking te faciliteren moet hier in een digitale onderzoeksomgeving rekening worden gehouden. Wij zijn van mening dat onderzoekers vanaf de eerste kennismaking van het digitale platform meteen aangemoedigd worden om samen te werken en hun onderzoeksmateriaal te delen. 
+
+Op dit moment hebben veel geesteswetenschappers zelf weinig ervaring hiermee. De gemeenschap van software-ontwikkelaars heeft hier echter al decennia lang ervaring mee en hiervoor zeer nuttige en betrouwbare oplossingen gevonden. Tools als Dropbox en vooral GitHub zijn specifiek ontwikkeld om makkelijk te kunnen samenwerken, en materiaal te kunnen delen, aanpassen, uitbreiden en hergebruiken.
+
+Het adopteren van GitHub als gedeelde werkplaats brengt een radicale cultuuromslag met zich mee. Echter, onderzoekers in allerlei disciplines maken al gebruik van vergelijkbare tools als Dropbox. GitHub gaat echter een stuk verder in de mogelijkheden en moedigt gebruikers aan om repositories open te stellen voor iedereen, wat samenwerking en hergebruik. Tevens zijn aspecten als metadatering en versiebeheer beter ingebouwd in GitHub dan in tools als Dropbox.
+
+
+TO DO - Samenwerking maakt het lab goedkoper omdat andere partijen meewerken en meebetalen. Het is dus zeer belangrijk dat we actief opzoek gaan naar samenwerking en ons naar buiten toe representeren. 
+
 ### Academische Partners
 
+- welke partners
+  - nationaal: VU via DH minor
+  - internationaal: UC Irvine (Geoffrey Bowker), Stanford University (John Willinsky), University of Virginia (Said Vaidhyanathan)
+
 ### Private Partners
+
+- Google (Dart)?
+- Sakai, Apereo (opvolgers van Blackboard)
+- Coursera?
 
 
 ## Gevraagd Besluit
