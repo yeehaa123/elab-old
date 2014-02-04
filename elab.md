@@ -80,6 +80,8 @@ Het adopteren van GitHub als gedeelde werkplaats brengt een radicale cultuuromsl
 
 Samenwerking kan het lab ook goedkoper maken, doordat andere partijen meewerken en daarmee impliciet meebetalen. Het is dus zeer belangrijk dat we actief opzoek gaan naar samenwerking en ons duidelijk naar buiten toe presenteren. 
 
+Huidige en mogelijk toekomstige partners zijn:
+
 + Academische Partners
   + VU (via de Digital Humanities minor)
   + KNAW (DANS, Huygens, IISG, KITLV, Meertens, NIOD)
