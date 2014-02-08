@@ -36,6 +36,9 @@ Grote gezamelijke projecten zorgen echter ook voor hogere overlast op het gebied
 Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten korte tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—--men kan samen aan digitaal onderzoek werken--—en met onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
 
 
-### Experimentation over Reproduction // Learning over Teaching
+### Experimentation over Reproduction
 
-Een ander groot voordeel van een open onderwijs- en onderzoeksplatform en digitale training van stafleden en studenten, is dat deze hiermee aangemoedigd worden om zelf tools te ontwikkelen en daarmee nieuwe perspectieven, vragen en inzichten kunnen krijgen. Door 'proprietary' tools worden onderzoekers beperkt tot het gebruiken van tools die niet goed aansluiten op wat ze willen doen en leiden tot het simpelweg reproduceren wat men in eerder onderzoek heeft gedaan. 
+Wij zijn een lab primair als een ruimte die uitnodigd tot experimentatie en innovatie. Of deze ruimte fysiek of virtueel is, is van secundair belang. Om van het elab een succes te maken, moet dus gezorgd worden dat experimentatie zoveel mogelijk gestimuleerd worden. 
+
+Dit geldt zowel voor de output als de gebruikte methoden en technieken. Een groot voordeel van een open onderwijs- en onderzoeksplatform en digitale training van stafleden en studenten, is dat deze hiermee aangemoedigd worden om zelf tools te ontwikkelen en daarmee nieuwe perspectieven, vragen en inzichten kunnen krijgen. Door 'proprietary' tools worden onderzoekers beperkt tot het gebruiken van tools die niet goed aansluiten op wat ze willen doen en leiden tot het simpelweg reproduceren wat men in eerder onderzoek heeft gedaan. 
+
