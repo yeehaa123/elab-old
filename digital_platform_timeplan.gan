@@ -4,11 +4,11 @@
     <view zooming-state="default:11" id="gantt-chart">
         <field id="tpd3" name="Name" width="67" order="0"/>
         <field id="tpd4" name="Begin date" width="15" order="1"/>
-        <field id="tpd5" name="End date" width="16" order="2"/>
+        <field id="tpd5" name="End date" width="17" order="2"/>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="57" order="0"/>
-        <field id="1" name="Default role" width="42" order="1"/>
+        <field id="0" name="Name" width="50" order="0"/>
+        <field id="1" name="Default role" width="49" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -36,22 +36,24 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="Verkenning" color="#8cb6ce" meeting="false" start="2014-01-01" duration="218" complete="0" expand="true">
+        <task id="0" name="Verkenning (nog te begroten)" color="#8cb6ce" meeting="false" start="2014-01-01" duration="218" complete="0" expand="true">
             <task id="25" name="Koppeling labs aan website" color="#8cb6ce" meeting="false" start="2014-01-01" duration="64" complete="0" expand="true"/>
-            <task id="29" name="Inventarisatie nieuwe online cursussen" color="#8cb6ce" meeting="false" start="2014-07-01" duration="44" complete="0" expand="true"/>
+            <task id="54" name="gesprekken met departementen/docenten" color="#8cb6ce" meeting="false" start="2014-04-07" duration="40" complete="0" expand="true"/>
+            <task id="29" name="planning/ontw. nieuwe online cursussen" color="#8cb6ce" meeting="false" start="2014-07-01" duration="44" complete="0" expand="true"/>
+            <task id="56" name="bijeenkomst internat. klankboordgroep" color="#8cb6ce" meeting="false" start="2014-09-12" duration="1" complete="0" expand="true"/>
             <task id="26" name="Rapportage 10-jarenplan" color="#8cb6ce" meeting="false" start="2014-10-01" duration="23" complete="0" expand="true"/>
         </task>
         <task id="18" name="Teaching" meeting="false" start="2014-03-24" duration="420" complete="0" expand="true">
             <task id="16" name="Crash course niveau 1" color="#8cb6ce" meeting="false" start="2014-03-24" duration="5" complete="0" expand="true"/>
             <task id="6" name="Pilot Coding the Humanities" color="#8cb6ce" meeting="false" start="2014-06-02" duration="20" complete="0" expand="true"/>
-            <task id="40" name="2014/2015, sem I" color="#8cb6ce" meeting="false" start="2014-09-01" duration="40" complete="0" expand="true"/>
+            <task id="40" name="DH Minor 2014/2015, sem I" color="#8cb6ce" meeting="false" start="2014-09-01" duration="40" complete="0" expand="true"/>
             <task id="20" name="Crash course niveau 1" color="#8cb6ce" meeting="false" start="2014-10-20" duration="5" complete="0" expand="true"/>
             <task id="19" name="Crash course niveau 2" color="#8cb6ce" meeting="false" start="2014-10-20" duration="5" complete="0" expand="true"/>
-            <task id="43" name="2015/2016, sem I" color="#8cb6ce" meeting="false" start="2015-09-07" duration="40" complete="0" expand="true"/>
+            <task id="43" name="DH Minor 2015/2016, sem I" color="#8cb6ce" meeting="false" start="2015-09-07" duration="40" complete="0" expand="true"/>
         </task>
         <task id="23" name="Financiering 2de+3de geldstroom" meeting="false" start="2014-02-03" duration="62" complete="0" expand="true">
             <task id="1" name="Horizon2020 proposal (INSO-6-2014)" color="#8cb6ce" meeting="false" start="2014-02-03" duration="62" complete="0" expand="true"/>
-            <task id="4" name="PanAm TTO proposal proof of concept" color="#8cb6ce" meeting="false" start="2014-02-03" duration="15" complete="0" expand="true"/>
+            <task id="4" name="PanAm TTO proposal proof of concept" color="#8cb6ce" meeting="false" start="2014-03-03" duration="20" complete="0" expand="true"/>
         </task>
         <task id="24" name="Ontwikkeling platform" meeting="false" start="2014-01-01" duration="363" complete="0" expand="true">
             <task id="31" name="Prototpying" color="#8cb6ce" meeting="false" start="2014-01-01" duration="64" complete="0" expand="true"/>
@@ -62,11 +64,11 @@
             <task id="7" name="User testing" color="#8cb6ce" meeting="false" start="2015-03-30" duration="20" complete="0" expand="true"/>
             <task id="51" name="Final product" color="#8cb6ce" meeting="false" start="2015-03-02" duration="60" complete="0" expand="true"/>
         </task>
-        <task id="8" name="Feedback expertisegroepen" meeting="false" start="2014-01-01" duration="388" complete="0" expand="true">
+        <task id="8" name="Feedback klankboordgroep UvA/VU" meeting="false" start="2014-05-12" duration="45" complete="0" expand="true">
             <task id="9" name="Pre-pilot feedback" color="#8cb6ce" meeting="false" start="2014-05-12" duration="5" complete="0" expand="true"/>
-            <task id="53" name="Studiegroep feedback" color="#8cb6ce" meeting="false" start="2014-01-01" duration="388" complete="0" expand="true"/>
             <task id="10" name="Post-pilot feedback" color="#8cb6ce" meeting="false" start="2014-07-07" duration="5" complete="0" expand="true"/>
         </task>
+        <task id="53" name="feedback klankboordgroep studenten" color="#8cb6ce" meeting="false" start="2014-01-01" duration="388" complete="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
@@ -81,9 +83,9 @@
         <displaycolumn property-id="tpd9" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd1" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd0" order="-1" width="75" visible="false"/>
-        <displaycolumn property-id="tpd3" order="0" width="320" visible="true"/>
-        <displaycolumn property-id="tpd4" order="1" width="73" visible="true"/>
-        <displaycolumn property-id="tpd5" order="2" width="80" visible="true"/>
+        <displaycolumn property-id="tpd3" order="0" width="309" visible="true"/>
+        <displaycolumn property-id="tpd4" order="1" width="71" visible="true"/>
+        <displaycolumn property-id="tpd5" order="2" width="78" visible="true"/>
     </taskdisplaycolumns>
     <previous/>
     <roles roleset-name="Default"/>

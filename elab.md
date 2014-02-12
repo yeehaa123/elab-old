@@ -90,13 +90,14 @@ Samenwerking kan het lab ook goedkoper maken, doordat andere partijen meewerken 
 Huidige en mogelijk toekomstige partners zijn:
 
 + Academische Partners
-  + VU (via de Digital Humanities minor)
-  + KNAW (DANS, Huygens, IISG, KITLV, Meertens, NIOD)
+  + VU (via de Digital Humanities minor en CHAT)
+  + KNAW Geesteswetenschapen (via CHAT)
   + UC Irvine (Geoffrey Bowker), 
   + Stanford University (John Willinsky), 
   + University of Virginia (Said Vaidhyanathan)
 
 + Private Partners
+  + IBM (via CHAT)
   + Google (Google Dart: programmeertaal voor web applicaties)
   + Apereo (Open Academic Collaboration, Cambridge)
   + Edx (online cursusplatform, MIT)
@@ -106,8 +107,8 @@ Huidige en mogelijk toekomstige partners zijn:
 
 Uit bovenstaande analyse blijkt dat een digitale onderzoeksomgeving de hoogste prioriteit heeft. Het opzetten van een dergelijk platform is een omvangrijk en complex project, omdat het zowel onderwijskundig, technisch, en juridisch aan zeer hoge eisen moet voldoen. Ook moet het goed aansluiten bij de verschillende labs die al aan de UvA bestaan, of momenteel in ontwikkeling zijn. We stellen daarom voor de komende maanden gedegen onderzoek te doen naar de randvoorwaarden en implementatie voor zo'n digitale onderzoeksomgeving. 
 
-De pilot van 'Coding the Humanities' is een essentieel deel van een dergelijk onderzoek. Alleen door het doorlopen van een pilotproject en het ontwikkelen van een prototype, kunnen er weloverwogen en toekomstbestendige keuzes gemaakt worden. Op het moment hebben wij al een drietal klankboordgroepen in het leven geroepen om dit proces te monitoren. Één studiegroep die uitsluitend bestaat uit studenten en promovendi, één UvA interne expertisegroep, en een derde internationale board of advisors. De ervaring met de pilot en de gesprekken met de verschillende expertisegroepen  moeten leidend zijn voor het vervolg van dit ambitieuze project.
+De pilot van 'Coding the Humanities' is een essentieel deel van een dergelijk onderzoek. Alleen door het doorlopen van een pilotproject en het ontwikkelen van een prototype, kunnen er weloverwogen en toekomstbestendige keuzes gemaakt worden. Op het moment hebben wij al een drietal klankboordgroepen in het leven geroepen om dit proces te monitoren. Één studiegroep die uitsluitend bestaat uit studenten en promovendi, één UvA interne expertisegroep, en een derde internationale board of advisors. De ervaring met de pilot en de gesprekken met de verschillende expertisegroepen moeten leidend zijn voor het vervolg van dit ambitieuze project.
 
-Concreet stellen wij daarom voor om in oktober 2014 met een uitgebreid vervolgrapport met bijbehorende tijdsplanning en begroting te komen. Ondergetekenden (Bos, Hoogstad, Koolen) vragen het bestuur om ons de ruimte te geven om een dergelijk onderzoek uit te voeren. Hiervoor hebben wij 300 uur (100 uur p.p.) nodig. Verder is het essentieel dat wij onze kennis kunnen bijhouden op het gebied van softwareontwikkeling (trainingen), het project naar buiten toe kunnen presenteren (o.a. op conferenties), en een gedegen netwerk kunnen opbouwen in het veld. Hiervoor is tot oktober een verder budget van 36000 euro nodig (12000 euro p.p.)
+Concreet stellen wij daarom voor om in oktober 2014 met een uitgebreid vervolgrapport met bijbehorende tijdsplanning en begroting te komen. Ondergetekenden (Bos, Hoogstad, Koolen) vragen het bestuur om ons de ruimte te geven om een dergelijk onderzoek uit te voeren. Hiervoor hebben wij 300 uur (100 uur p.p.) nodig. Hieronder vallen gesprekken met de verschillende departmenten, planning en ontwikkeling van digitale cursussen, bijeenkomsten met klankboordgroepen. Verder is het essentieel dat wij onze kennis kunnen bijhouden op het gebied van softwareontwikkeling (trainingen, 5000 euro p.p.), en het project naar buiten toe kunnen presenteren (o.a. op conferenties) en een gedegen netwerk van nationale en internationale partners kunnen opbouwen (samen 5000 euro p.p.). Voor interne communicatie en disseminatie en een expert meeting met de internationale klankboordgroep is bij elkaar 6000 euro nodig. In totaal is hiervoor tot oktober een budget van 36000 euro nodig.
 
 Daarnaast vragen wij het bestuur het bovengenoemde budget voor de diverse crash courses te akkoorderen.
