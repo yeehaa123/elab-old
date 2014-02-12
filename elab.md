@@ -97,7 +97,6 @@ Huidige en mogelijk toekomstige partners zijn:
   + University of Virginia (Said Vaidhyanathan)
 
 + Private Partners
-  + IBM (via CHAT)
   + Google (Google Dart: programmeertaal voor web applicaties)
   + Apereo (Open Academic Collaboration, Cambridge)
   + Edx (online cursusplatform, MIT)
