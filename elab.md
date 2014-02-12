@@ -97,14 +97,14 @@ Huidige en mogelijk toekomstige partners zijn:
   + University of Virginia (Said Vaidhyanathan)
 
 + Private Partners
-  + Google (Google Dart: programmertaal voor web applicaties)
+  + Google (Google Dart: programmeertaal voor web applicaties)
   + Apereo (Open Academic Collaboration, Cambridge)
   + Edx (online cursusplatform, MIT)
 
 
 ## Gevraagd Besluit
 
-Uit bovenstaande analyse blijkt dat voor ons een digitale onderzoeksomgeving de hoogste prioriteit heeft. Het opzetten van een dergelijk platform is een omvangrijk en complex project, omdat het zowel onderwijskundig, technisch, en juridisch aan zeer hoge eisen moet voldoen. Ook moet het goed aansluiten bij de verschillende labs die al aan de UvA bestaan, of momenteel in ontwikkeling zijn. We stellen daarom voor de komende maanden gedegen onderzoek te doen naar de randvoorwaarden en implementatie voor zo'n digitale onderzoeksomgeving. 
+Uit bovenstaande analyse blijkt dat een digitale onderzoeksomgeving de hoogste prioriteit heeft. Het opzetten van een dergelijk platform is een omvangrijk en complex project, omdat het zowel onderwijskundig, technisch, en juridisch aan zeer hoge eisen moet voldoen. Ook moet het goed aansluiten bij de verschillende labs die al aan de UvA bestaan, of momenteel in ontwikkeling zijn. We stellen daarom voor de komende maanden gedegen onderzoek te doen naar de randvoorwaarden en implementatie voor zo'n digitale onderzoeksomgeving. 
 
 De pilot van 'Coding the Humanities' is een essentieel deel van een dergelijk onderzoek. Alleen door het doorlopen van een pilotproject en het ontwikkelen van een prototype, kunnen er weloverwogen en toekomstbestendige keuzes gemaakt worden. Op het moment hebben wij al een drietal klankboordgroepen in het leven geroepen om dit proces te monitoren. Één studiegroep die uitsluitend bestaat uit studenten en promovendi, één UvA interne expertisegroep, en een derde internationale board of advisors. De ervaring met de pilot en de gesprekken met de verschillende expertisegroepen  moeten leidend zijn voor het vervolg van dit ambitieuze project.
 

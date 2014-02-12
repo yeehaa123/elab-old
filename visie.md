@@ -38,7 +38,7 @@ Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een 
 
 ### Experimentation over Reproduction
 
-Wij zijn een lab primair als een ruimte die uitnodigd tot experimentatie en innovatie. Of deze ruimte fysiek of virtueel is, is van secundair belang. Om van het elab een succes te maken, moet dus gezorgd worden dat experimentatie zoveel mogelijk gestimuleerd worden. 
+Wij zien een lab primair als een ruimte die uitnodigt tot experimentatie en innovatie. Of deze ruimte fysiek of virtueel is, is van secundair belang. Om van het elab een succes te maken, moet dus gezorgd worden dat experimentatie zoveel mogelijk gestimuleerd worden. 
 
 Dit geldt zowel voor de output als de gebruikte methoden en technieken. Een groot voordeel van een open onderwijs- en onderzoeksplatform en digitale training van stafleden en studenten, is dat deze hiermee aangemoedigd worden om zelf tools te ontwikkelen en daarmee nieuwe perspectieven, vragen en inzichten kunnen krijgen. Door 'proprietary' tools worden onderzoekers beperkt tot het gebruiken van tools die niet goed aansluiten op wat ze willen doen en leiden tot het simpelweg reproduceren wat men in eerder onderzoek heeft gedaan. 
 
