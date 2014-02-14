@@ -1,3 +1,5 @@
+# Bijlage
+
 ## Visie
 
 De commotie rondom de zogenaamde digitale geesteswetenschapppen is naar onze mening van tijdelijke aard. Niet omdat geesteswetenschappers binnenkort weer zullen terugvallen op hun oude, vertrouwde werktuigen, maar in tegendeel, omdat digitale methoden in de zeer nabije toekomst zullen gaan behoren tot de gereedschapskist van alle geesteswetenschappers. 

@@ -1,6 +1,12 @@
-# Aanzet Inrichting E-Lab
+# Aanzet Inrichting Online E-Lab
 
-In het voorjaar van 2013 is binnen de Faculteit der Geesteswetenschappen een verkenning uitgevoerd naar de wensen en ideeën voor een eventueel eHumanities lab (Koolen & Bod, 2013). Dit onderzoek benadrukt de brede scope die dit lab moet krijgen. Hierbij vallen een aantal dominante thema’s te onderscheiden: ondersteuning en professionalisering, fysieke en virtuele ruimtes, hardware en infrastructuur. 
+Nynke Bos, Jan Hein Hoogstad, Marijn Koolen
+
+12 februari 2014
+
+## Inleiding
+
+In het voorjaar van 2013 is binnen de Faculteit der Geesteswetenschappen een verkenning uitgevoerd naar de wensen en ideeën voor een eventueel eHumanities lab (Koolen & Bod, 2013). Dit onderzoek benadrukt de brede scope die dit lab moet krijgen. Hierbij vallen een aantal dominante thema’s te onderscheiden: ondersteuning en professionalisering, fysieke en virtuele ruimtes, hardware en infrastructuur. Naar aanleiding van deze verkenning is ons verzocht de online onderwijs- en onderzoekscomponent van dit lab nader uit te werken. In dit document en het bijgevoegde visiestuk geven we de randvoorwaarden waaraan een dergelijke omgeving moet voldoen, en vragen de bevoegdheid en middelen om dit te realiseren. 
 
 Voordat er sprake is van een lab, waarin al deze aspecten gewaarborgd zijn, is het noodzakelijk om al op korte termijn stappen te ondernemen zodat de weg hiernaar toe zo efficiënt mogelijk wordt vormgegeven. Tegelijkertijd is het echter belangrijk niet klakkeloos stappen te ondernemen. In het verleden heeft de faculteit te vaak teveel geinvesteerd in ad-hoc oplossingen alsmede snel verouderde hardware en software en bijbehorende service contracten. 
 
@@ -108,6 +114,7 @@ Uit bovenstaande analyse blijkt dat een digitale onderzoeksomgeving de hoogste p
 
 De pilot van 'Coding the Humanities' is een essentieel deel van een dergelijk onderzoek. Alleen door het doorlopen van een pilotproject en het ontwikkelen van een prototype, kunnen er weloverwogen en toekomstbestendige keuzes gemaakt worden. Op het moment hebben wij al een drietal klankboordgroepen in het leven geroepen om dit proces te monitoren. Één studiegroep die uitsluitend bestaat uit studenten en promovendi, één UvA interne expertisegroep, en een derde internationale board of advisors. De ervaring met de pilot en de gesprekken met de verschillende expertisegroepen moeten leidend zijn voor het vervolg van dit ambitieuze project.
 
-Concreet stellen wij daarom voor om in oktober 2014 met een uitgebreid vervolgrapport met bijbehorende tijdsplanning en begroting te komen. Ondergetekenden (Bos, Hoogstad, Koolen) vragen het bestuur om ons de ruimte te geven om een dergelijk onderzoek uit te voeren. Hiervoor hebben wij 300 uur (100 uur p.p.) nodig. Hieronder vallen gesprekken met de verschillende departmenten, planning en ontwikkeling van digitale cursussen, bijeenkomsten met klankboordgroepen. Verder is het essentieel dat wij onze kennis kunnen bijhouden op het gebied van softwareontwikkeling (trainingen, 5000 euro p.p.), en het project naar buiten toe kunnen presenteren (o.a. op conferenties) en een gedegen netwerk van nationale en internationale partners kunnen opbouwen (samen 5000 euro p.p.). Voor interne communicatie en disseminatie en een expert meeting met de internationale klankboordgroep is bij elkaar 6000 euro nodig. In totaal is hiervoor tot oktober een budget van 36000 euro nodig.
+Concreet stellen wij daarom voor om in oktober 2014 met een uitgebreid vervolgrapport met bijbehorende tijdsplanning en begroting te komen. Ondergetekenden vragen het bestuur om ons de ruimte te geven om een dergelijk onderzoek uit te voeren. Hiervoor hebben wij 300 uur (100 uur p.p.) nodig. Hieronder vallen gesprekken met de verschillende departmenten, planning en ontwikkeling van digitale cursussen, bijeenkomsten met klankboordgroepen. Verder is het essentieel dat wij onze kennis kunnen bijhouden op het gebied van softwareontwikkeling (trainingen, 5000 euro p.p.), en het project naar buiten toe kunnen presenteren (o.a. op conferenties) en een gedegen netwerk van nationale en internationale partners kunnen opbouwen (samen 5000 euro p.p.). Voor interne communicatie en disseminatie en een expert meeting met de internationale klankboordgroep is bij elkaar 6000 euro nodig. In totaal is hiervoor tot oktober een budget van 36000 euro nodig.
 
 Daarnaast vragen wij het bestuur het bovengenoemde budget voor de diverse crash courses te akkoorderen.
+

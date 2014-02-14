@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Untitled Gantt Project" company="" webLink="http://" view-date="2014-01-01" view-index="0" gantt-divider-location="479" resource-divider-location="300" version="2.0" locale="en_US">
+<project name="E-lab digitaal" company="" webLink="http://" view-date="2014-01-01" view-index="0" gantt-divider-location="479" resource-divider-location="300" version="2.0" locale="en_US">
     <description/>
     <view zooming-state="default:11" id="gantt-chart">
         <field id="tpd3" name="Name" width="67" order="0"/>
