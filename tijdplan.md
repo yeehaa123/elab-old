@@ -1,6 +1,6 @@
-## Tijdplan en budget onderzoek e-lab
+## Stand van zaken, tijdplan en budget onderzoek e-lab
 
-Bij het plannen van het e-lab moeten we rekening houden met verschillende aspecten die met elkaar samenhangen maar niet gelijktijdig lopen.
+Bij het plannen van het e-lab moeten we rekening houden met verschillende aspecten die met elkaar samenhangen maar niet gelijktijdig lopen. Dit document bevat een tijdplanning en benodigd budget om deze lopende aspecten goed op elkaar aan te laten sluiten.
 
 ### Aspecten
 
