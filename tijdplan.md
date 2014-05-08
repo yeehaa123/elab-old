@@ -22,20 +22,28 @@ Aspecten:
 Planning:
 
 + Juni 2014:
-  + plenaire bijeenkomst: wat is er gedaan en wat gaat er straks gebeuren?
-  + A.d.h.v. die kaders om nadere invullen vragen
+  + Pilot Coding the Humanities (CtH)
+  + Plenaire bijeenkomst: wat is er gedaan en wat gaat er straks gebeuren? A.d.h.v. die kaders om nadere invulling vragen
 + Juli/ Augustus 2014:
-  + PvA voor pilotruimte opstellen: welke dingen willen we helder krijgen in collegejaar 2014-2015 o.a. toegevoegde waarde fysieke ruimte, rol ICTO etc.
+  + Evaluatie pilot CtH
+  + Plan van Aanpak voor pilotruimte opstellen: welke dingen willen we helder krijgen in collegejaar 2014-2015 o.a. 
+    + toegevoegde waarde fysieke ruimte
+    + rol ICTO
+    + manieren ter bevordering samenwerking
+    + rol online platform
 + Juli/ Augustus 2014:
-  + Start ontwikkeling digitaal samenwerkingsplatform (let op! Dit is dus niet de website). Hiervoor is reeds een apart plan opgesteld (eventueel bijlage toevoegen).
-+ Augustus 20104:
-  + Communicatie omtrent pilot & (reeds) beschikbare diensten
+  + Ontwikkeling digitaal samenwerkingsplatform CtH (let op! Dit is dus niet de website). Hiervoor is reeds een apart plan opgesteld.
++ Augustus 2014:
+  + Communicatie omtrent pilot & (reeds) beschikbare diensten.
 + September 2014:
   + Opening e-lab ruimte & toestand
-  + Start pilot
+  + Start pilot fysiek e-lab
+  + Start minor Digital Humanities (o.a. CtH)
 + Oktober 2014:
-  + Scholingsaanbod onderzoekers (doorlopend).
+  + Scholingsaanbod onderzoekers (doorlopend), e.g. crash course, minor DH
 + Januari 2015:
-  + Tussentijdse evaluatie en doorontwikkeling e-lab
+  + Tussentijdse evaluatie pilot fysiek lab
+  + Evaluatie minor Digital Humanities (incl. CtH)
+  + doorontwikkeling platform en pilot fysiek lab en connectie daartussen
 
 
