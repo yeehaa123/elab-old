@@ -1,23 +1,27 @@
 ## Tijdplan en budget onderzoek e-lab
 
+Bij het plannen van het e-lab moeten we rekening houden met verschillende aspecten die met elkaar samenhangen maar niet gelijktijdig lopen.
+
 ### Aspecten
 
-+ Online platform:
+1. Online platform:
   + opzetten platform
-  + verzorgt deel van training en technische ondersteuning
-+ Fysieke ruimte:
+2 Professionalisering:
+  + Coding the Humanities, pilot: juni 2014, reguliere module: najaar 2014
+  + DH minor open voor staf , sept-dec 2014
+  + Crash course, 20-24 oktober 2014
+  + training en technische ondersteuning voornamelijk via platform
+3. Onderwijs  
+  + DH minor start najaar 2014
+  + Aansluiting met onderzoek: platform en fysiek lab verenigen beide (minor is project-georienteerd)
+4. Fysieke ruimte:
   + Inrichting flexibele/ projectmatige ruimtes m.n. gericht op embedded researchers
   + In de buurt van CREATE
-  + Start pilot april 2015 in BG
-+ Professionalisering:
-  + Coding the Humanities, pilot: juni 2014, reguliere module: najaar 2014
-  + DH minor, open voor staf, sept-dec 2014
-  + Crash course, 20-24 oktober 2014
-+ Early Adopters: 
-  + Verzorgen professionalisering en worden betrokken bij de pilot
-+ Onderwijs: 
-  + Aansluiting met onderzoek
-+ Techniek: 
+  + Start pilot april 2015 (waar? BG1? BG5?)
+5. Early Adopters: 
+  + Voorlopers worden betrokken bij het pilot lab door het lab te richten op onderzoeksprojecten en embedded researchers
+  + Verzorgen professionalisering 
+6. Techniek: 
   + Valt samen met uitrol van de pilot ruimte: huidige mogelijkheden benadrukken (dienstverlening).
 
 
@@ -26,11 +30,13 @@
 
 + Juni 2014:
   + Pilot Coding the Humanities (CtH)
+  + project-ruimte voor CtH
+  + Plenaire bijeenkomst: wat is er gedaan en wat gaat er straks gebeuren? 
 + Juli/ Augustus 2014:
   + Evaluatie pilot CtH
-  + Ontwikkeling digitaal samenwerkingsplatform CtH (let op! Dit is dus niet de website). Hiervoor is reeds een apart plan opgesteld.
+  + Ontwikkeling digitaal samenwerkingsplatform CtH. Let op! Dit is dus niet de website. Hiervoor is reeds een apart plan opgesteld. (zie bijlage)
 + September/Oktober 2014:
-  + Start minor Digital Humanities (o.a. module CtH op platform)
+  + Start minor Digital Humanities, o.a. module CtH op platform
   + Scholingsaanbod onderzoekers (doorlopend), e.g. crash course, minor DH
   + Afronden plan van Aanpak voor fysiek lab: welke dingen willen we helder krijgen, o.a. 
     + toegevoegde waarde fysieke ruimte
@@ -39,10 +45,10 @@
     + maatregelen ter bevordering samenwerking
     + voorstel pilot fysiek lab
 + November:
-  + Communicatie omtrent pilot & (reeds) beschikbare diensten. Plenaire bijeenkomst: wat is er gedaan en wat gaat er straks gebeuren? 
+  + Communicatie omtrent pilot & (reeds) beschikbare diensten. 
 + Januari-Maart 2015:
   + Evaluatie platform en CtH module
-  + Ontwikkeling platform
+  + Verdere ontwikkeling platform
   + Start cursus Art, Science & Technology (via platform)
   + Inrichten pilot fysiek lab
 + April 2015:
@@ -57,13 +63,15 @@
 + Onderzoek e-lab tot nu toe:
   + Inventarisatie, visie, tijdsplan, budget (200 uur)
 + Plan van Aanpak fysiek lab: 
-  + Uitwerking door Jan Hein, Marijn, Nynke, Sabine, Sabrina (150 uur)
-  + representatiekosten: internationale samenwerking, benaderen publieke en private partners (?)
+  + Uitwerking door Jan Hein, Marijn, Nynke, Sabine, Sabrina (200 uur)
+  + representatiekosten: internationale samenwerking, benaderen publieke en private partners, scouting (voorbeeld labs, personeel),  (€36.000, zie toelichting vorige begroting)
 + Pilot fysiek lab:
-  + Opzet pilot: bemensing, inrichten ruimte, materiaalkosten (?)
-  + Begeleiding/beheer, monitoring (uren?)
-+ Doorontwikkeling platform en pilot lab
-  + Evaluatie en herziening PvA (uren?)
-  + Ontwikkeling pilot lab ruimte (uren?)
-  + Ontwikkeling samenwerkingsplatform (uren?)
+  + Opzet pilot: bemensing, inrichten ruimte, materiaalkosten (afhankelijk van PvA)
+  + Begeleiding/beheer, monitoring (afhankelijk van PvA)
++ Doorontwikkeling platform en lab:
+  + Evaluatie (studenten, staf) en herziening PvA (50 uur)
+  + Doorontwikkeling pilot lab ruimte (afhankelijk van PvA)
+  + Doorontwikkeling samenwerkingsplatform (voor 2014-2015 betaald vanuit AAA en Faculteit)
++ Ondersteuning:
+  + curriculumontwikkeling, platformontwikkeling: studentassistenten (2*0.2fte)
 
