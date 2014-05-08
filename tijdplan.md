@@ -49,6 +49,7 @@
 ### Budget
 
 + Plan van Aanpak: 
+  + uitwerking tot nu toe (200 uur)
   + uitwerking door Jan Hein, Marijn, Nynke, Sabrina (4 * 10 = 40 uur)
 + Pilot fysiek lab:
   + opzet lab (inrichten ruimte, materiaal)
