@@ -1,9 +1,5 @@
 # Mission Statement
 
-1. Goal
-2. Strategy
-3. Actions
-
 ### Goal
 
 In our vision, the mission of the eHumanities lab is to:
@@ -31,19 +27,5 @@ These strategies follow a number of principles:
 + Best Practices over Standards
 + Experimentation over Reproduction
 
-### Actions
-
-+ Coding the Humanities platform development
-+ Coding the Humanities pilot
-+ Pilot physical e-lab
-+ Planning phase
-+ ...
-
-### Attachments
-
-1. The vision statement explains how our strategy achieves the goals.
-2. The proposal describes how we implement these strategies.
-3. The time schedule lists the steps in which actions are taken.
-4. The budget lists the requirements to perform the actions.
 
 
