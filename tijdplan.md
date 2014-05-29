@@ -13,7 +13,7 @@ Bij het plannen van het e-lab moeten we rekening houden met verschillende aspect
   + training en technische ondersteuning voornamelijk via platform
 3. Onderwijs  
   + DH minor start najaar 2014
-  + Aansluiting met onderzoek: platform en fysiek lab verenigen beide (minor is project-georienteerd)
+  + Aansluiting met onderzoek: platform en fysiek lab verenigen beide (minor is project-georiënteerd)
 4. Fysieke ruimte:
   + Inrichting flexibele/ projectmatige ruimtes m.n. gericht op embedded researchers
   + In de buurt van CREATE
@@ -31,7 +31,8 @@ Bij het plannen van het e-lab moeten we rekening houden met verschillende aspect
 + Juni 2014:
   + Pilot Coding the Humanities (CtH)
   + project-ruimte voor CtH
-  + Plenaire bijeenkomst: wat is er gedaan en wat gaat er straks gebeuren? 
+  + Plenaire bijeenkomst: wat is er gedaan en wat gaat er straks gebeuren?
+  + Doorlopend onderzoek naar samenwerking eindgebruikers/partners/coding CtH
 + Juli/ Augustus 2014:
   + Evaluatie pilot CtH
   + Ontwikkeling digitaal samenwerkingsplatform CtH. Let op! Dit is dus niet de website. Hiervoor is reeds een apart plan opgesteld. (zie bijlage)
@@ -42,6 +43,7 @@ Bij het plannen van het e-lab moeten we rekening houden met verschillende aspect
     + toegevoegde waarde fysieke ruimte
     + rol online platform
     + rol ICTO
+    + rol eindgebruikers
     + maatregelen ter bevordering samenwerking
     + voorstel pilot fysiek lab
 + November:
