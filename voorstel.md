@@ -34,11 +34,12 @@ Dit platform wordt door de FGw zelf ontwikkeld om twee redenen. Ten eerste omdat
 
 De doelstelling van het platform is daarmee tweeledig: het dient zowel onderwijs (leer/testomgeving voor studenten) als onderzoek (samenwerkingsomgeving voor onderzoekers, zowel docenten als studenten), en maakt onderwijs daarmee ook meer onderzoeksgestuurd. Een voordeel van het werken met een digitaal platform ten opzichte van een fysiek lab, is dat deze ook direct een (inter)nationaal publiek aanspreekt. De kennisdeling en uitwisseling krijgt daarmee automatisch een internationaal karakter. 
 
-Voor het komend jaar stellen wij voor een drietal aspecten te benadrukken: 
+Voor het komend jaar stellen wij voor een viertal aspecten te benadrukken: 
 
 1. professionalisering van docenten en studenten
 2. ontsluiten van de al aanwezige labs en materialen
-3. samenwerking met academische en private partners
+3. test de waarde van een fysiek lab middels een pilot
+4. samenwerking met academische en private partners
 
 Deze drie aspecten komen samen in het ontwikkelen van het digitale onderwijs- en onderzoeksplatform. Dit platform moet dan in 2017 gecomplementeerd worden met een fysiek lab.
 
@@ -77,6 +78,15 @@ Tevens stellen wij voor om in het najaar ook een gevorderde versie van de crash 
 ## Aanwezige Labs en beschikbaar materiaal ontsluiten 
 
 In de inventarisatie van Koolen & Bod (2013) worden reeds een aantal aanwezige Labs binnen de FGw genoemd, zoals Digital Methods Initiative Lab, Taallab etc. Deze verschillende labs worden via een overkoepelende website ontsloten om zo de zichtbaarheid van Digital Humanities en de verschillende Labs te vergroten. De Labs die ondersteuning nodig hebben bij het (door)ontwikkelen van hun site, kunnen dit via ICTO krijgen. Daarnaast worden op deze site diverse bronnen over de Digital Humanities ontsloten (denk aan tools) en komt er een prominente verwijzing naar de digitale samenwerkingsomgeving. 
+
+
+## Pilot Fysiek Lab
+
++ Focus op Embedded Researchers: verken nieuw type onderzoeker en onderzoek, geef huidige embedded researchers een eigen plek en identiteit, breng interdisciplinaire projecten naar het lab, lab vormt interface tussen academische en commerciële partners. 
++ Benodigdheden: flexibele ruimte, verplaatsbare whiteboards, presentatiemogelijkheden
++ Test: rol van samenwerkingsplatform, training, ICTO
++ Crash course in lab
++ Aandachtspunten: zorg dat het faculteitsbreed is, maak het inclusief
 
 
 ## Samenwerking
