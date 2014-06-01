@@ -1,40 +1,36 @@
-# Aanzet Inrichting Online E-Lab
+# Voorstel inrichting eHumanities lab
 
-Nynke Bos, Jan Hein Hoogstad, Marijn Koolen
-
-12 februari 2014
-
-## Inleiding
-
-In het voorjaar van 2013 is binnen de Faculteit der Geesteswetenschappen een verkenning uitgevoerd naar de wensen en ideeën voor een eventueel eHumanities lab (Koolen & Bod, 2013). Dit onderzoek benadrukt de brede scope die dit lab moet krijgen. Hierbij vallen een aantal dominante thema’s te onderscheiden: ondersteuning en professionalisering, fysieke en virtuele ruimtes, hardware en infrastructuur. Naar aanleiding van deze verkenning is ons verzocht de online onderwijs- en onderzoekscomponent van dit lab nader uit te werken. In dit document en het bijgevoegde visiestuk geven we de randvoorwaarden waaraan een dergelijke omgeving moet voldoen, en vragen de bevoegdheid en middelen om dit te realiseren. 
+In het voorjaar van 2013 is binnen de Faculteit der Geesteswetenschappen een verkenning uitgevoerd naar de wensen en ideeën voor een eventueel eHumanities lab (Koolen & Bod, 2013). Dit onderzoek benadrukt de brede scope die dit lab moet krijgen. Hierbij vallen een aantal dominante thema’s te onderscheiden: ondersteuning en professionalisering, fysieke en virtuele ruimtes, hardware en infrastructuur. Naar aanleiding van deze verkenning is ons verzocht de online onderwijs- en onderzoekscomponent van dit lab nader uit te werken. In dit document geven we de randvoorwaarden waaraan een dergelijke omgeving moet voldoen, en vragen de bevoegdheid en middelen om dit te realiseren. 
 
 Voordat er sprake is van een lab, waarin al deze aspecten gewaarborgd zijn, is het noodzakelijk om al op korte termijn stappen te ondernemen zodat de weg hiernaar toe zo efficiënt mogelijk wordt vormgegeven. Tegelijkertijd is het echter belangrijk niet klakkeloos stappen te ondernemen. In het verleden heeft de faculteit te vaak teveel geïnvesteerd in ad-hoc oplossingen alsmede snel verouderde hardware en software en bijbehorende service contracten. 
 
 Wij zijn van mening dat een succesvol e-lab noodzakelijkerwijs voortkomt uit een coherente en concrete visie op de rol van de ICT binnen het wetenschappelijk onderwijs en onderzoek. Deze visie gaat uit van de volgende vier principes:
 
-+ Convention over Configuration
 + Training over Support
 + Collaboration over Ownership
++ Convention over Configuration
 + Experimentation over Reproduction
 
-Een uitgebreide beschrijving van deze principes is te vinden in de bijlage. In dit document beperken wij ons tot de stappen die komend jaar nodig zijn om duidelijk te krijgen hoe we die visie kunnen realiseren, en welke kosten daarvoor nodig zijn.
+Een uitgebreide beschrijving van deze principes is te vinden in het visie-statement. In dit document beperken wij ons tot de stappen die komend jaar nodig zijn om duidelijk te krijgen hoe we die visie kunnen realiseren, en welke kosten daarvoor nodig zijn.
 
 Wij beperken ons in dit plan bewust tot 2014-2015, omdat wij van mening zijn dat een project van deze omvang en complexiteit een gedegen onderzoek vereist. Voordat we met een plan van aanpak voor meerdere jaren kunnen komen, moeten een aantal factoren eerst onderzocht en getest worden, te weten:
 
++ toegevoegde waarde van een fysieke ruimte
 + de ervaringen met de pilot van 'Coding the Humanities'
++ de rol van het digitale samenwerkingsplatform
++ de rol van ICTO
++ de rol van eindgebruikers
 + de ontsluiting van de al aanwezige labs en materiaal
-+ mogelijkheden tot samenwerking met andere universiteiten
-+ mogelijkheden tot samenwerking met private partners
++ maatregelen ter bevordering van samenwerking met andere universiteiten en private partners
 + mogelijkheden tot gedeeltelijke financiering uit tweede en derde geldstromen
 
-Het komend jaar zouden ondergetekenden - Nynke Bos, Jan Hein Hoogstad en Marijn Koolen - graag de bevoegdheid en de bijbehorende middelen krijgen om een dergelijk onderzoek uit te voeren. Dit zal resulteren tot een plan van aanpak voor de komende tien jaar in oktober.  
-
+Het komend jaar zouden ondergetekenden - Nynke Bos, Jan Hein Hoogstad, Marijn Koolen en Sabrina Sauer - graag de bevoegdheid en de bijbehorende middelen krijgen om een dergelijk onderzoek uit te voeren. Dit zal resulteren tot een plan van aanpak voor de komende tien jaar in oktober.  
 
 ## Uitvoering
 
-Een fysiek lab kan op zijn vroegst in 2017 gerealiseerd kan worden. Dit hoeft en moet de implementatie van een digitaal platform (volgens de bovengenoemde principes) echter niet te hinderen. Gezien de noodzaak en urgentie van een inhaalslag op het gebied van digitale onderwijs- en onderzoeksmethoden die aan de UvA moet plaatsvinden, is het cruciaal om zo snel mogelijk een digitaal platform waarop de verschillende - al aanwezige en in de toekomst te ontwikkelen initiatieven - samenkomen. 
+In de verkenningsfase is gebleken dat de wensen van onderzoekers vooral op het hier en nu gebaseerd zijn. De meerwaarde van een fysiek lab is nog onduidelijk, dus de inrichting van zo'n ruimte vergt verder onderzoek, mogelijk via een pilot lab. Dit hoeft en moet de implementatie van een digitaal platform (volgens de principes en strategieën) echter niet te hinderen. Gezien de noodzaak en urgentie van een inhaalslag op het gebied van digitale onderwijs- en onderzoeksmethoden die aan de UvA moet plaatsvinden, is het cruciaal om zo snel mogelijk een digitaal platform waarop de verschillende - al aanwezige en in de toekomst te ontwikkelen initiatieven - samenkomen. 
 
-Dit platform wordt door de FGw zelf ontwikkeld om twee redenen. Ten eerste omdat dit al deels plaatsvindt in de  online cursus Coding the Humanities en ten tweede omdat het platform tegemoet moet komen aan specifieke vragen en eisen met betrekking tot Digital Humanities. Deze vragen en eisen gaan verder dan het sturen van informatie, en behoeven een flexibele modulaire omgeving waarbinnen eigen tools ontwikkeld kunnen worden en datasets kunnen worden aangesproken en bewerkt. Tot op heden is een dergelijk platform nog niet ontwikkeld. 
+Dit platform wordt door de FGw zelf ontwikkeld om twee redenen. Ten eerste omdat dit al deels plaatsvindt in de  online cursus Coding the Humanities en ten tweede omdat het platform tegemoet moet komen aan specifieke vragen en eisen met betrekking tot Digital Humanities. Deze vragen en eisen gaan verder dan het verzamelen en beschikbaar stellen van informatie, en behoeven een flexibele modulaire omgeving waarbinnen eigen tools ontwikkeld kunnen worden en datasets kunnen worden aangesproken en bewerkt. Tot op heden is een dergelijk platform nog niet ontwikkeld. 
 
 De doelstelling van het platform is daarmee tweeledig: het dient zowel onderwijs (leer/testomgeving voor studenten) als onderzoek (samenwerkingsomgeving voor onderzoekers, zowel docenten als studenten), en maakt onderwijs daarmee ook meer onderzoeksgestuurd. Een voordeel van het werken met een digitaal platform ten opzichte van een fysiek lab, is dat deze ook direct een (inter)nationaal publiek aanspreekt. De kennisdeling en uitwisseling krijgt daarmee automatisch een internationaal karakter. 
 
@@ -58,6 +54,8 @@ In de cursus Coding the Humanities en andere cursussen in de Digital Humanities 
 
 
 ### Coding the Humanities
+
+Het project Coding the Humanities vormt een belangrijk spil in de e-lab strategie. Het traint onderzoekers, maakt gebruik van en promoot open source, bevordert samenwerking tussen GW onderzoekers onderling en met private partners. 
 
 Het doel is om vanaf 2015 de Coding the Humanities cursus en omgeving open te stellen voor alle studenten en stafleden (en grotendeels ook naar buiten toe). Hierdoor kan iedereen op een voor hen geschikt moment cursussen volgen om zich te professionaliseren en deel te nemen aan de ontwikkeling van het platform.
 
