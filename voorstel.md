@@ -44,7 +44,7 @@ Voor het komend jaar stellen wij voor een viertal aspecten te benadrukken:
 Deze drie aspecten komen samen in het ontwikkelen van het digitale onderwijs- en onderzoeksplatform. Dit platform moet dan in 2017 gecomplementeerd worden met een fysiek lab.
 
 
-## Professionalisering van docenten en studenten 
+## 1. Professionalisering van docenten en studenten 
   
 Het aanbieden van statische content op zich is onvoldoende. Er zal de komende twee jaar ruime aandacht moeten zijn voor de professionalisering van docenten en het scholen van studenten. Voor de professionalisering en de scholing zal een digitale versie van het fysieke Lab ontwikkeld worden. Hierdoor kan iedereen in zijn/haar eigen tijd en tempo kennis nemen van Digital Humanities, maar werkt FGw ook aan haar eigen onderzoeksplatform die zowel voor onderwijs- als onderzoeksdoeleinden kan worden ingezet. Daarnaast wordt de Digital Humanities Crash Course weer herhaald. 
 
@@ -75,12 +75,12 @@ Ook in 2014 wordt er weer een crash course voor stafleden aangeboden. Gezien het
 Tevens stellen wij voor om in het najaar ook een gevorderde versie van de crash course te starten. Hierbij zal net als in 'Coding the Humanities' het programmeren centraal moeten staan. Dit is belangrijk omdat het voor het succes van het digitaal onderwijs en onderzoek aan de UvA (en de hier voorgestelde digitale omgeving) belangrijk is dat de staff niet alleen over basiskennis, maar juist ook over gevorderde kennis beschikt - niet in de laatste plaats omdat de staff naast een rol als gebruiker ook de mogelijkheid moet krijgen om zelf innovatief aan de slag te gaan met de aangeboden digitale tools.
 
 
-## Aanwezige Labs en beschikbaar materiaal ontsluiten 
+## 2. Aanwezige Labs en beschikbaar materiaal ontsluiten 
 
 In de inventarisatie van Koolen & Bod (2013) worden reeds een aantal aanwezige Labs binnen de FGw genoemd, zoals Digital Methods Initiative Lab, Taallab etc. Deze verschillende labs worden via een overkoepelende website ontsloten om zo de zichtbaarheid van Digital Humanities en de verschillende Labs te vergroten. De Labs die ondersteuning nodig hebben bij het (door)ontwikkelen van hun site, kunnen dit via ICTO krijgen. Daarnaast worden op deze site diverse bronnen over de Digital Humanities ontsloten (denk aan tools) en komt er een prominente verwijzing naar de digitale samenwerkingsomgeving. 
 
 
-## Pilot Fysiek Lab
+## 3. Pilot Fysiek Lab
 
 + Focus op Embedded Researchers: verken nieuw type onderzoeker en onderzoek, geef huidige embedded researchers een eigen plek en identiteit, breng interdisciplinaire projecten naar het lab, lab vormt interface tussen academische en commerciële partners. 
 + Benodigdheden: flexibele ruimte, verplaatsbare whiteboards, presentatiemogelijkheden
@@ -89,7 +89,7 @@ In de inventarisatie van Koolen & Bod (2013) worden reeds een aantal aanwezige L
 + Aandachtspunten: zorg dat het faculteitsbreed is, maak het inclusief
 
 
-## Samenwerking
+## 4. Samenwerking
 
 Zoals eerder genoemd is samenwerking in geesteswetenschappelijk onderzoek steeds meer een vereiste, zowel vanuit de financieringsinstrumenten als vanuit de interdisciplinaire aard van veel digital geesteswetenschappelijk onderzoek. Gelukkig leent digitaal onderzoek zich uitstekend voor uitgebreide samenwerking. 
 
