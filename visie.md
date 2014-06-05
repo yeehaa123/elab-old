@@ -10,7 +10,7 @@ Het elab moet volgens ons de kern vormen van een bredere inhaalslag die de Facul
 2. meer en intensievere samenwerkingsverbanden tussen geesteswetenschappers uit allerlei disciplines onderling, en met wetenschappers uit exacte wetenschappen en commerciële bedrijven,
 3. nieuwe soorten onderzoek, zowel theoretisch door te reflecteren via het ontwikkelen en toepassen van nieuwe digitale tools, als praktisch en experimenteel, samen met private partners.
 
-Om dit te bereiken, zou het elab volgens de volgende vijf uitgangspunten moeten worden ontwikkeld, die hieronder worden besproken 
+Om dit te bereiken, zou het elab volgens de volgende vier uitgangspunten moeten worden ontwikkeld, die hieronder worden besproken 
 
 
 ## Visie
@@ -33,7 +33,7 @@ Financieringsinstrumenten voor geesteswetenschappelijk onderzoek, zoals onderdel
 
 Grote gezamenlijke projecten zorgen echter ook voor hogere overlast op het gebied van project management. Wederom stellen wij vast dat er in de geesteswetenschappen weinig kennis en ervaring bestaat op dit gebied.
 
-Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten korte tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—--men kan samen aan digitaal onderzoek werken--—en met onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
+Dit vergt ofwel continue investering om nieuwe cursussen te ontwikkelen, of een open source benadering, waardoor meer ervaren stafleden en studenten korte tutorials kunnen ontwikkelen voor minder ervaren gebruikers. Deze open benadering bevordert tevens samenwerking tussen geesteswetenschappers onderling—men kan samen aan digitaal onderzoek werken—en met onderzoekers in andere faculteiten en andere instellingen, zowel nationaal als internationaal.
 
 
 ### 3. Convention over Configuration
@@ -54,10 +54,6 @@ Wij zien een lab primair als een ruimte die uitnodigt tot experimentatie en inno
 
 Dit geldt zowel voor de output als de gebruikte methoden en technieken. Een groot voordeel van een open onderwijs- en onderzoeksplatform en digitale training van stafleden en studenten, is dat deze hiermee aangemoedigd worden om zelf tools te ontwikkelen en daarmee nieuwe perspectieven, vragen en inzichten kunnen krijgen. Door 'proprietary' tools worden onderzoekers beperkt tot het gebruiken van tools die niet goed aansluiten op wat ze willen doen en leiden tot het simpelweg reproduceren wat men in eerder onderzoek heeft gedaan. Het lab biedt bij uitstek een "plek" waar studenten, docenten en onderzoekers, middels het delen van vaardigheden en kennis tot innovatie kunnen komen.
 
-
-### 5. Best Practices over Standards
-
-...
 
 
 ## Strategie

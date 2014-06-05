@@ -11,13 +11,13 @@ Bij het plannen van het e-lab moeten we rekening houden met verschillende aspect
   + DH minor open voor staf , sept-dec 2014
   + Crash course, 20-24 oktober 2014
   + training en technische ondersteuning voornamelijk via platform
-3. Onderwijs  
+3. Onderwijs:
   + DH minor start najaar 2014
   + Aansluiting met onderzoek: platform en fysiek lab verenigen beide (minor is project-georiënteerd)
 4. Fysieke ruimte:
-  + Inrichting flexibele/ projectmatige ruimtes m.n. gericht op embedded researchers
-  + In de buurt van CREATE
-  + Start pilot april 2015 (waar? BG1? BG5?)
+  + Inrichting flexibele/ projectmatige ruimtes m.n. gericht op embedded researchers (o.a. CDH en CIRCA)
+  + In de buurt van IC/ICTO en als kan ook bij CREATE
+  + Start pilot april 2015 (bijv. BG1, BG5 of PCH)
 5. Early Adopters: 
   + Voorlopers worden betrokken bij het pilot lab door het lab te richten op onderzoeksprojecten en embedded researchers
   + Verzorgen professionalisering 
