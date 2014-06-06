@@ -11,7 +11,7 @@
 	+ Verslaglegging resultaten en uitwerking Plan van Aanpak: Koolen, Hoogstad, Sauer & Bos: 100 uur
 + Pilot fysiek lab (*minimaal invasief*)
 	+ Inrichten ruimte: globaal **2.000 euro**
-	+ Opzetten professionaliseringstraject medewerkers (WP) en studenten dmv lezingen, workshops en signature track "Digital Humanities" Bod, Koolen, Sauer & Hoogstad coordinatie: **80 uur**. Dagelijkse uitvoering TA:** 240 uur **
+	+ Opzetten professionaliseringstraject medewerkers (WP) en studenten dmv lezingen, workshops en signature track "Digital Humanities" Bod, Koolen, Sauer & Hoogstad coordinatie: **80 uur**. Dagelijkse uitvoering TA: **240 uur**
 	+ Uitwerking doorontwikkeling lab:
 		+ Onderzoeken & beanderen private partners
 		+ Onderzoeken & benaderen publieke partners
@@ -23,11 +23,11 @@
   <P>
   
 + Doorontwikkeling fysiek lab 
-	+ Opstellen van plan van aanpak "Ehumanties Lab" nav pilots en professionaliserstraject en scouting: Koolen, Hoogstad, Sauer & Bos: ** 80 uur.** 
-	+ Uitwerking valuatie (studenten, staf, klankboordgroepen): Koolen, Hoogstad, Sauer & Bos: **80 uur. **
+	+ Opstellen van plan van aanpak "Ehumanties Lab" nav pilots en professionaliserstraject en scouting: Koolen, Hoogstad, Sauer & Bos: **80 uur.** 
+	+ Uitwerking valuatie (studenten, staf, klankboordgroepen): Koolen, Hoogstad, Sauer & Bos: **80 uur.**
 	 + Doorontwikkeling pilot lab ruimte (afhankelijk van PvA): aantal uren thans onbekend
 	 + Doorontwikkeling samenwerkingsplatform (voor 2014-2015 betaald vanuit AAA en Faculteit)
-	 + Opzettten borging en contintuering binnen de faculteit: Hoogstad & Bos: ** 20 uur **
+	 + Opzettten borging en contintuering binnen de faculteit: Hoogstad & Bos: **20 uur**
 
 *Minimaal invasief* houdt in dat er in eerste instantie sprake is van een casco ruimte die wordt ingericht met als primaire doelstelling de professionalisering van zowel docenten en student. Deze laagdrempelige ontmoetingsruimte fungeert daarmee in eerste instantie als expertisecentrum E-humanities en zal aan de hand van de bovengenoemde vervolgstappen verder worden uitgewerkt naar een daadwerkelijk lab. 
 
