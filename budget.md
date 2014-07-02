@@ -45,7 +45,8 @@
 		+ training projectteam (congresbezoek, cursussen): €12.000
 		+ reiskosten externe (incl. internationale) leden klankbordgroep: €10.000
 		Totaal: **€42.000**
-		Doelstelling van deze budgetpost is deze terug te verdienen door de werving van private en publieke partners. Internationale samenwerking en het afleggen van werkbezoeken moet leiden tot professionalisering van het projectteam en tevens zorgen voor (internationale) borging en consolidatie op de lange termijn binnen de eigen organisatie.
+		
+		(Doelstelling van deze budgetpost is deze terug te verdienen door de werving van private en publieke partners. Internationale samenwerking en het afleggen van werkbezoeken moet leiden tot professionalisering van het projectteam en tevens zorgen voor (internationale) borging en consolidatie op de lange termijn binnen de eigen organisatie.)
 
 *Minimaal invasief* houdt in dat er in eerste instantie sprake is van een casco ruimte die wordt ingericht met als primaire doelstelling de professionalisering van zowel docenten en student. Deze laagdrempelige ontmoetingsruimte fungeert daarmee in eerste instantie als expertisecentrum E-humanities en zal aan de hand van de bovengenoemde vervolgstappen verder worden uitgewerkt naar een daadwerkelijk lab. 
 
