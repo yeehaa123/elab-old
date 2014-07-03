@@ -26,7 +26,8 @@
 		+ schrijven Plan van Aanpak: 20 uur
 
 + Pilot fysiek lab (*minimaal invasief*)
-	+ Inrichten ruimte: globaal **2.000 euro**
+	+ Inrichten ruimte: globaal **10.000 euro**
+	    + huur meubels, whiteboards, projector
 	+ Opzetten professionaliseringstraject medewerkers (WP) en studenten dmv lezingen, workshops en signature track "Digital Humanities" Bod, Koolen, Sauer & Hoogstad coordinatie: **80 uur**. Dagelijkse uitvoering TA: **240 uur**
   
 + Doorontwikkeling fysiek lab
